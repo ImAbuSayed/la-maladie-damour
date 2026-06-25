@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-maladie-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for La Maladie D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-maladie-damour/) |
+| **Get License** | [Get a Licensing Quote for La Maladie D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-maladie-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4dfde64bd875a11e943284cb50bff426963285e6de6722515f849c3a5f698f4d` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
