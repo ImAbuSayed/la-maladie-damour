@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-maladie-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For La Maladie D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-maladie-damour/) |
+| **Get License** | [Request Licensing for La Maladie D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-maladie-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> C'est la maladie d'amour, bébé, je perds le contrôle
+> Minuit sur la corniche, tes mains glissent sur mes épaules
+> L'adrénaline au max, baby, j'suis accro à ton goût
+> Sous les néons du club, tu es mon vice le plus fou
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
